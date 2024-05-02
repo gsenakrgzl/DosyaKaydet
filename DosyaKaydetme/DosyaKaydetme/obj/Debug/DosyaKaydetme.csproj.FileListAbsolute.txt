@@ -1,0 +1,11 @@
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\bin\Debug\DosyaKaydetme.exe.config
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\bin\Debug\DosyaKaydetme.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\bin\Debug\DosyaKaydetme.pdb
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\obj\Debug\DosyaKaydetme.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\obj\Debug\DosyaKaydetme.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\obj\Debug\DosyaKaydetme.Form1.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\obj\Debug\DosyaKaydetme.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\obj\Debug\DosyaKaydetme.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\obj\Debug\DosyaKaydetme.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\obj\Debug\DosyaKaydetme.exe
+C:\Users\LENOVO\OneDrive\Masaüstü\Görsel Programlama\DosyaKaydetme\DosyaKaydetme\obj\Debug\DosyaKaydetme.pdb
